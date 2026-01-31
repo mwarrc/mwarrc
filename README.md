@@ -37,8 +37,8 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwarrc&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0&ring_color=6366F1)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwarrc&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mwarrc&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0&ring_color=6366F1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mwarrc&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mwarrc&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=6366F1&sideNums=818CF8)](https://git.io/streak-stats)
@@ -121,9 +121,9 @@ class DesignPrinciples {
 
 <div align="center">
 
-[![PocketScore](https://github-readme-stats.vercel.app/api/pin/?username=mwarrc&repo=pocketscore&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0)](https://github.com/mwarrc/pocketscore)
-[![PocketScore Web](https://github-readme-stats.vercel.app/api/pin/?username=mwarrc&repo=pocketscoreweb&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0)](https://github.com/mwarrc/pocketscoreweb)
-[![ProxySet](https://github-readme-stats.vercel.app/api/pin/?username=mwarrc&repo=proxyset&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0)](https://github.com/mwarrc/proxyset)
+[![PocketScore](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mwarrc&repo=pocketscore&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0)](https://github.com/mwarrc/pocketscore)
+[![PocketScore Web](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mwarrc&repo=pocketscoreweb&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0)](https://github.com/mwarrc/pocketscoreweb)
+[![ProxySet](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mwarrc&repo=proxyset&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=818CF8&text_color=E2E8F0)](https://github.com/mwarrc/proxyset)
 
 </div>
 
