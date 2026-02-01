@@ -28,27 +28,6 @@
 
 </div>
 
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mwarrc&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=718096&text_color=A0AEC0&ring_color=4A5568)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mwarrc&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=A0AEC0&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mwarrc&theme=dark&hide_border=true&background=0D1117&stroke=4A5568&ring=4A5568&fire=718096&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=A0AEC0&sideNums=718096)](https://git.io/streak-stats)
-
-</div>
-
-## Featured Projects
-
-<div align="center">
-
-[![PocketScore](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mwarrc&repo=pocketscore&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=718096&text_color=A0AEC0)](https://github.com/mwarrc/pocketscore)
-[![PocketScore Web](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mwarrc&repo=pocketscoreweb&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=718096&text_color=A0AEC0)](https://github.com/mwarrc/pocketscoreweb)
-[![ProxySet](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=mwarrc&repo=proxyset&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&icon_color=718096&text_color=A0AEC0)](https://github.com/mwarrc/proxyset)
-
-</div>
-
 ## Connect
 
 <div align="center">
