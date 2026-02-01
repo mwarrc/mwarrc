@@ -167,7 +167,6 @@ class DesignPrinciples {
 
 <div align="center">
 
-> **"Code is poetry written in logic"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mwarrc&amp;label=Profile+Views&amp;color=6366F1&amp;style=for-the-badge)
 
