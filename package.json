@@ -2,13 +2,17 @@
   "name": "mwarrc.github.io",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mwarrc.github.io",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "next": "16.1.6",
     "react": "19.2.3",
     "react-dom": "19.2.3"
