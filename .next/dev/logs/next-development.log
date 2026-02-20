@@ -1,0 +1,11 @@
+[00:00:02.384] Server  LOG     ✓ Ready in 1609ms
+[00:00:04.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.635] Browser ERROR   uncaughtError: SyntaxError: Invalid or unexpected token
+[00:00:05.052] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.052] Browser ERROR   uncaughtError: SyntaxError: Invalid or unexpected token
+[00:00:05.431] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:05.431] Browser ERROR   uncaughtError: SyntaxError: Invalid or unexpected token
+[00:00:05.817] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.900] Browser ERROR   uncaughtError: SyntaxError: Invalid or unexpected token
+[00:00:08.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:08.729] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

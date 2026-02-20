@@ -1,0 +1,133 @@
+@import "tailwindcss";
+
+@theme {
+   --color-neon-pink: #ff2a85;
+   --color-neon-blue: #00f0ff;
+   --color-neon-yellow: #fff000;
+   --color-base-dark: #121212;
+   --color-base-light: #f4f6f8;
+   --color-brutal-gray: #e0e0e0;
+
+   --animate-marquee: marquee 40s linear infinite;
+   --animate-marquee-reverse: marquee-reverse 40s linear infinite;
+
+   @keyframes marquee {
+      0% {
+         transform: translateX(0);
+      }
+
+      100% {
+         transform: translateX(-50%);
+      }
+   }
+
+   @keyframes marquee-reverse {
+      0% {
+         transform: translateX(-50%);
+      }
+
+      100% {
+         transform: translateX(0);
+      }
+   }
+}
+
+@layer utilities {
+   .brutal-card {
+      @apply border-4 border-black bg-white;
+      box-shadow: 6px 6px 0px 0px rgba(0, 0, 0, 1);
+      transition: all 0.2s cubic-bezier(0.25, 1, 0.5, 1);
+   }
+
+   @media (min-width: 768px) {
+      .brutal-card {
+         box-shadow: 12px 12px 0px 0px rgba(0, 0, 0, 1);
+      }
+   }
+
+   .brutal-card:hover {
+      transform: translate(2px, 2px);
+      box-shadow: 2px 2px 0px 0px rgba(0, 0, 0, 1);
+   }
+
+   @media (min-width: 768px) {
+      .brutal-card:hover {
+         transform: translate(4px, 4px);
+         box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
+      }
+   }
+
+   .brutal-btn {
+      @apply font-bold uppercase tracking-wider px-4 py-2 md:px-6 md:py-3 border-4 border-black inline-block text-sm md:text-base;
+      box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 1);
+      transition: all 0.15s ease-out;
+   }
+
+   @media (min-width: 768px) {
+      .brutal-btn {
+         box-shadow: 4px 4px 0px 0px rgba(0, 0, 0, 1);
+      }
+   }
+
+   .brutal-btn:active {
+      transform: translate(3px, 3px);
+      box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 1);
+   }
+
+   @media (min-width: 768px) {
+      .brutal-btn:active {
+         transform: translate(4px, 4px);
+      }
+   }
+
+   .brutal-btn-pink {
+      @apply bg-neon-pink text-white;
+   }
+
+   .brutal-btn-yellow {
+      @apply bg-neon-yellow text-black;
+   }
+
+   .brutal-btn-blue {
+      @apply bg-neon-blue text-black;
+   }
+}
+
+body {
+   background-color: var(--color-base-light);
+   color: var(--color-base-dark);
+   font-family: var(--font-space-grotesk), monospace;
+   overflow-x: hidden;
+   cursor: none;
+}
+
+/* Ensure custom cursor shows on all interactive elements */
+a,
+button,
+[role="button"],
+input,
+textarea,
+select,
+label {
+   cursor: none !important;
+}
+
+::selection {
+   background-color: var(--color-neon-pink);
+   color: #fff;
+}
+
+/* Base scrollbar styling for brutalist feel */
+::-webkit-scrollbar {
+   width: 16px;
+}
+
+::-webkit-scrollbar-track {
+   background: var(--color-base-light);
+   border-left: 4px solid black;
+}
+
+::-webkit-scrollbar-thumb {
+   background: black;
+   border: 4px solid var(--color-base-light);
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Outer border block -->
+  <rect width="64" height="64" fill="#f4f6f8"/>
+  <rect x="4" y="4" width="56" height="56" fill="#ffffff" stroke="#000000" stroke-width="4"/>
+
+  <!-- Brutalist "M" letterform -->
+  <path
+    d="M12 48 L12 16 L32 38 L52 16 L52 48"
+    fill="none"
+    stroke="#000000"
+    stroke-width="7"
+    stroke-linejoin="miter"
+    stroke-linecap="square"
+  />
+
+  <!-- Neon pink accent — bottom-left corner block -->
+  <rect x="4" y="52" width="12" height="8" fill="#ff2a85"/>
+  <!-- Neon yellow accent — top-right corner block -->
+  <rect x="48" y="4" width="12" height="8" fill="#fff000"/>
+</svg>
